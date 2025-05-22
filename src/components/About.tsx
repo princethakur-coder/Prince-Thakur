@@ -57,9 +57,9 @@ const About: React.FC = () => {
           <div>
             <h3 className="text-2xl font-bold text-slate-900 dark:text-white mb-4">
               I'm Prince Thakur, a passionate MERN Stack Developer
-            </h3>velopment started with a fascination for creating interactive 
+            </h3> 
             <p className="text-slate-700 dark:text-slate-300 mb-6">
-              With over 1.5 years of experience, I specialize in building modern web applications using MongoDB, Express.js, React.js, and Node.js. My journey in web deand user-friendly interfaces.
+            Development started with a fascination for creating interactive With over 1.5 years of experience, I specialize in building modern web applications using MongoDB, Express.js, React.js, and Node.js. My journey in web deand user-friendly interfaces.
             </p>
             <p className="text-slate-700 dark:text-slate-300 mb-6">
               I'm dedicated to writing clean, efficient code and building scalable applications that solve real-world problems. My approach combines technical expertise with creative problem-solving to deliver exceptional digital experiences.

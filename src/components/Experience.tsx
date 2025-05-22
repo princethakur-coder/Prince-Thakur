@@ -131,22 +131,22 @@ const Experience: React.FC = () => {
                   <li className="flex items-start gap-2">
                     <div className="w-2 h-2 bg-indigo-500 rounded-full mt-2"></div>
                     <div>
-                      <p className="font-medium text-slate-800 dark:text-slate-200">MongoDB Certified Developer</p>
-                      <p className="text-sm text-slate-600 dark:text-slate-400">MongoDB University</p>
-                    </div>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <div className="w-2 h-2 bg-indigo-500 rounded-full mt-2"></div>
-                    <div>
-                      <p className="font-medium text-slate-800 dark:text-slate-200">AWS Certified Developer</p>
-                      <p className="text-sm text-slate-600 dark:text-slate-400">Amazon Web Services</p>
-                    </div>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <div className="w-2 h-2 bg-indigo-500 rounded-full mt-2"></div>
-                    <div>
                       <p className="font-medium text-slate-800 dark:text-slate-200">React.js Certification</p>
-                      <p className="text-sm text-slate-600 dark:text-slate-400">Meta</p>
+                      <p className="text-sm text-slate-600 dark:text-slate-400">Infosys</p>
+                    </div>
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <div className="w-2 h-2 bg-indigo-500 rounded-full mt-2"></div>
+                    <div>
+                      <p className="font-medium text-slate-800 dark:text-slate-200">AWS in cyber security</p>
+                      <p className="text-sm text-slate-600 dark:text-slate-400">Amazon</p>
+                    </div>
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <div className="w-2 h-2 bg-indigo-500 rounded-full mt-2"></div>
+                    <div>
+                      <p className="font-medium text-slate-800 dark:text-slate-200">Machine learining from AWS</p>
+                      <p className="text-sm text-slate-600 dark:text-slate-400">Amazon</p>
                     </div>
                   </li>
                 </ul>
