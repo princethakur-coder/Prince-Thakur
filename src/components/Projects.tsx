@@ -19,7 +19,7 @@ const Projects: React.FC = () => {
     {
       id: 1,
       title: 'Typing Test Model',
-      description: 'A full-featured e-commerce platform with product catalog, cart, checkout, and payment processing.',
+      description: 'A real-time typing test app with speed and accuracy tracking, keystroke handling, and performance metrics display.',
       image: 'https://www.lifewire.com/thmb/JVyGp8FmHq2zseTfUs8OphGRNUU=/1246x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/monkeytype-wpm-test-e1515e0ac7bc42358050d623152495ec.png',
       technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Redux', 'Stripe'],
       liveUrl: 'https://typing-test-tuxr.onrender.com/',
