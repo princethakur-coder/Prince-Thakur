@@ -18,6 +18,16 @@ const Projects: React.FC = () => {
   const projects: Project[] = [
     {
       id: 1,
+      title: 'Typing Test Model',
+      description: 'A full-featured e-commerce platform with product catalog, cart, checkout, and payment processing.',
+      image: 'https://www.lifewire.com/thmb/JVyGp8FmHq2zseTfUs8OphGRNUU=/1246x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/monkeytype-wpm-test-e1515e0ac7bc42358050d623152495ec.png',
+      technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Redux', 'Stripe'],
+      liveUrl: 'https://typing-test-tuxr.onrender.com/',
+      githubUrl: 'https://github.com/princethakur-coder/typing-test',
+      category: 'fullstack',
+    },
+    {
+      id: 2,
       title: 'E-Commerce Platform',
       description: 'A full-featured e-commerce platform with product catalog, cart, checkout, and payment processing.',
       image: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -27,7 +37,7 @@ const Projects: React.FC = () => {
       category: 'fullstack',
     },
     {
-      id: 2,
+      id: 3,
       title: 'Task Management App',
       description: 'A collaborative task management application with real-time updates, user authentication, and team workspaces.',
       image: 'https://images.pexels.com/photos/6963944/pexels-photo-6963944.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -37,7 +47,7 @@ const Projects: React.FC = () => {
       category: 'fullstack',
     },
     {
-      id: 3,
+      id: 4,
       title: 'Social Media Dashboard',
       description: 'A responsive dashboard for social media analytics with interactive charts and data visualization.',
       image: 'https://images.pexels.com/photos/7654049/pexels-photo-7654049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -47,7 +57,7 @@ const Projects: React.FC = () => {
       category: 'frontend',
     },
     {
-      id: 4,
+      id: 5,
       title: 'RESTful API Service',
       description: 'A secure and scalable API service for handling user authentication and data management.',
       image: 'https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
