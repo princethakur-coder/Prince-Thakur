@@ -32,8 +32,8 @@ const Projects: React.FC = () => {
       description: 'A full-featured e-commerce platform with product catalog, cart, checkout, and payment processing.',
       image: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Redux', 'Stripe'],
-      liveUrl: 'https://example.com',
-      githubUrl: 'https://github.com/princethakur-coder/Ecommerce-MERN-',
+      liveUrl: 'https://updated-e-commerce-site.onrender.com',
+      githubUrl: 'https://github.com/princethakur-coder/updated-E-commerce-site',
       category: 'fullstack',
     },
     {
