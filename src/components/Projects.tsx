@@ -22,8 +22,8 @@ const Projects: React.FC = () => {
       description: 'A real-time typing test app with speed and accuracy tracking, keystroke handling, and performance metrics display.',
       image: 'https://www.lifewire.com/thmb/JVyGp8FmHq2zseTfUs8OphGRNUU=/1246x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/monkeytype-wpm-test-e1515e0ac7bc42358050d623152495ec.png',
       technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Redux', 'Stripe'],
-      liveUrl: 'https://typing-test-tuxr.onrender.com/',
-      githubUrl: 'https://github.com/princethakur-coder/typing-test',
+      liveUrl: 'https://rentype.onrender.com',
+      githubUrl: 'https://github.com/princethakur-coder/rEntype',
       category: 'fullstack',
     },
     {
@@ -32,8 +32,8 @@ const Projects: React.FC = () => {
       description: 'A full-featured e-commerce platform with product catalog, cart, checkout, and payment processing.',
       image: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Redux', 'Stripe'],
-      liveUrl: 'https://updated-e-commerce-site.onrender.com',
-      githubUrl: 'https://github.com/princethakur-coder/updated-E-commerce-site',
+      liveUrl: 'https://renshop.onrender.com',
+      githubUrl: 'https://github.com/princethakur-coder/rEnshop',
       category: 'fullstack',
     },
     {
@@ -42,8 +42,8 @@ const Projects: React.FC = () => {
       description: 'A collaborative task management application with real-time updates, user authentication, and team workspaces.',
       image: 'https://images.pexels.com/photos/6963944/pexels-photo-6963944.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Socket.io'],
-      liveUrl: 'https://example.com',
-      githubUrl: 'https://github.com/princethakur-coder/Task-management-MENR-',
+      liveUrl: 'https://rentask.onrender.com',
+      githubUrl: 'https://github.com/princethakur-coder/rEntask',
       category: 'fullstack',
     },
     {
