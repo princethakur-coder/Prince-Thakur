@@ -52,8 +52,8 @@ const Projects: React.FC = () => {
       description: 'A responsive dashboard for social media analytics with interactive charts and data visualization.',
       image: 'https://images.pexels.com/photos/7654049/pexels-photo-7654049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       technologies: ['React.js', 'Chart.js', 'Tailwind CSS', 'REST API'],
-      liveUrl: 'https://example.com',
-      githubUrl: 'https://github.com',
+      liveUrl: 'https://instaclone-0dse.onrender.com/',
+      githubUrl: 'https://github.com/princethakur-coder/instaClone',
       category: 'frontend',
     },
     {
