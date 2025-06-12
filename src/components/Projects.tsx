@@ -38,6 +38,16 @@ const Projects: React.FC = () => {
     },
     {
       id: 3,
+      title: 'Real-Estate Site',
+      description: 'A real estate listing platform with property search and filtering, interactive map integration, and detailed property information display.',
+      image: 'https://pilbox.themuse.com/image.png?filter=antialias&h=350&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2Fwhat-is-real-estate.png&w=700',
+      technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Redux', 'Stripe'],
+      liveUrl: 'https://realestate-4x45.onrender.com/',
+      githubUrl: 'https://github.com/princethakur-coder/realestate',
+      category: 'fullstack',
+    },
+    {
+      id: 4,
       title: 'Task Management App',
       description: 'A collaborative task management application with real-time updates, user authentication, and team workspaces.',
       image: 'https://images.pexels.com/photos/6963944/pexels-photo-6963944.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -47,7 +57,7 @@ const Projects: React.FC = () => {
       category: 'fullstack',
     },
     {
-      id: 4,
+      id: 5,
       title: 'Social Media Dashboard',
       description: 'A responsive dashboard for social media analytics with interactive charts and data visualization.',
       image: 'https://images.pexels.com/photos/7654049/pexels-photo-7654049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -57,7 +67,7 @@ const Projects: React.FC = () => {
       category: 'frontend',
     },
     {
-      id: 5,
+      id: 6,
       title: 'RESTful API Service',
       description: 'A secure and scalable API service for handling user authentication and data management.',
       image: 'https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
