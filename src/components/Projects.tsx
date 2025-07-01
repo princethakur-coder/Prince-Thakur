@@ -18,6 +18,16 @@ const Projects: React.FC = () => {
   const projects: Project[] = [
     {
       id: 1,
+      title: 'Apple Website (Masterpiece)',
+      description: 'A pixel-perfect clone of the official Apple website, built with modern MERN stack. This project showcases advanced frontend skills, including responsive design, smooth animations, and precise layout replication for a seamless user experience across devices',
+      image: 'https://s3-alpha.figma.com/hub/file/5261246868/e0d5d6ef-854e-4cb5-b7f6-ef92d2d1dc7b-cover.png',
+      technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Socket.io'],
+      liveUrl: 'https://apple-5pp7.onrender.com',
+      githubUrl: 'https://github.com/princethakur-coder/apple',
+      category: 'fullstack',
+    },
+    {
+      id: 2,
       title: 'Typing Test Model',
       description: 'A real-time typing test app with speed and accuracy tracking, keystroke handling, and performance metrics display.',
       image: 'https://www.lifewire.com/thmb/JVyGp8FmHq2zseTfUs8OphGRNUU=/1246x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/monkeytype-wpm-test-e1515e0ac7bc42358050d623152495ec.png',
@@ -27,7 +37,7 @@ const Projects: React.FC = () => {
       category: 'fullstack',
     },
     {
-      id: 2,
+      id: 3,
       title: 'E-Commerce Platform',
       description: 'A full-featured e-commerce platform with product catalog, cart, checkout, and payment processing.',
       image: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -37,23 +47,13 @@ const Projects: React.FC = () => {
       category: 'fullstack',
     },
     {
-      id: 3,
+      id: 4,
       title: 'Real-Estate Site',
       description: 'A real estate listing platform with property search and filtering, interactive map integration, and detailed property information display.',
       image: 'https://pilbox.themuse.com/image.png?filter=antialias&h=350&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2Fwhat-is-real-estate.png&w=700',
       technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Redux', 'Stripe'],
       liveUrl: 'https://realestate-4x45.onrender.com/',
       githubUrl: 'https://github.com/princethakur-coder/realestate',
-      category: 'fullstack',
-    },
-    {
-      id: 4,
-      title: 'Task Management App',
-      description: 'A collaborative task management application with real-time updates, user authentication, and team workspaces.',
-      image: 'https://images.pexels.com/photos/6963944/pexels-photo-6963944.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-      technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Socket.io'],
-      liveUrl: 'https://rentask.onrender.com',
-      githubUrl: 'https://github.com/princethakur-coder/rEntask',
       category: 'fullstack',
     },
     {
