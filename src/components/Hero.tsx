@@ -39,7 +39,7 @@ const Hero: React.FC = () => {
               </div>
               <div className="flex gap-4 mt-8">
                 <a
-                  href="https://github.com/"
+                  href="https://github.com/princethakur-coder"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 bg-slate-100 dark:bg-slate-800 rounded-full text-slate-700 dark:text-slate-300 hover:bg-indigo-100 dark:hover:bg-slate-700 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
@@ -48,7 +48,7 @@ const Hero: React.FC = () => {
                   <Github size={20} />
                 </a>
                 <a
-                  href="https://linkedin.com/"
+                  href="https://www.linkedin.com/in/prince-thakur-17b445366/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 bg-slate-100 dark:bg-slate-800 rounded-full text-slate-700 dark:text-slate-300 hover:bg-indigo-100 dark:hover:bg-slate-700 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
@@ -57,7 +57,7 @@ const Hero: React.FC = () => {
                   <Linkedin size={20} />
                 </a>
                 <a
-                  href="https://twitter.com/"
+                  href="https://www.linkedin.com/in/prince-thakur-17b445366/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 bg-slate-100 dark:bg-slate-800 rounded-full text-slate-700 dark:text-slate-300 hover:bg-indigo-100 dark:hover:bg-slate-700 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
